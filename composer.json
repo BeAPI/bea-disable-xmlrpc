@@ -1,5 +1,5 @@
 {
-  "name": "bea/bea-disable-xmlrpc",
+  "name": "bea/disable-xmlrpc",
   "description": "Remove XMLRPC from header, remove feature from WP",
   "license": "GPL-2.0",
   "authors": [
