@@ -5,7 +5,7 @@
   Description: Remove XMLRPC from header, remove feature from WP
   Author: BeAPI
   Author URI: http://www.beapi.fr
-  Version: 0.1
+  Version: 0.1.1
  */
 
 function remove_x_pingback( $headers ) {
